@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning gaming development 
 - 💞️ I’m looking to collaborate on anything that tackles with the latest cutting edge technologies!
 - 📫 You can contact me through email: coreyortiz130@gmail.com OR linkedln
-- ✨ My Projects are private therefore to be able to see them, contact me!
+- ✨ My Projects are private except one therefore to be able to see the rest, contact me!
 
 <!---
 ayycoreo/ayycoreo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
